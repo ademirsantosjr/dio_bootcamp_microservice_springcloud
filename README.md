@@ -1,4 +1,4 @@
-# Aplicação de exemplo, com arquitetura baseada em microserviços usando Spring Cloud
+# Aplicação de exemplo, com arquitetura baseada em microsserviços usando Spring Cloud
 
 Aplicação construída com base no _live-coding_ do _bootcamp_ 'Santander Full-Stack Developer' na plataforma da Digital Innovation One, demonstrando uma arquitetura composta por dois seriços: 'product-catalog' e 'shopping-cart', que utilizam, respectivamente, a _search engine_ Elasticsearch e a estrutura de armazenamento Redis. Nesta aplicação foram definidas as classes _Config Server_, _Service Discovery_ e _Gateway_  
 
